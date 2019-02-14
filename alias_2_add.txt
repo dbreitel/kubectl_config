@@ -1,0 +1,2 @@
+add the following to .bashrc
+alias kubefyme='source /home/diego/setKUBE.sh'
